@@ -102,8 +102,7 @@ import static org.apache.dubbo.common.utils.StringUtils.isBlank;
  * @see java.net.URL
  * @see java.net.URI
  */
-public /*final**/
-class URL implements Serializable {
+public class URL implements Serializable {
 
     private static final long serialVersionUID = -1985165475234910535L;
 
